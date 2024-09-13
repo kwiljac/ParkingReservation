@@ -14,5 +14,8 @@ Data Handling: Adapter pattern used for binding parking slot data to UI componen
 ![Screenshot 2024-09-13 at 9 13 56 AM](https://github.com/user-attachments/assets/ca87531d-d7dc-4b4d-93f4-c8b002adfe85)
 ![Screenshot 2024-09-13 at 9 15 17 AM](https://github.com/user-attachments/assets/9fa879bd-2c08-4343-8bde-007509bfd740)
 <img width="1196" alt="Screenshot 2024-09-13 at 9 15 39 AM" src="https://github.com/user-attachments/assets/8a878a7f-2b5a-4e60-9624-3974f05d8193">
-![Screenshot 2024-09-13 at 9 13 20 AM](https://github.com/user-attachments/assets/ee8d31a4-6266-48a7-8d63-5094eebefa12)
-![Screenshot 2024-09-13 at 9 13 29 AM](https://github.com/user-attachments/assets/89dfa027-14b8-4689-a124-efeeffb23438)
+![Screenshot 2024-09-13 at 9 13 20 AM](https://github.com/user-attachments/assets/ee8d31a4-6266-48a7-8d63-5094eebefa12)<img width="693" alt="Screenshot 2024-09-10 at 10 54 43 PM" src="https://github.com/user-attachments/assets/c9c138c3-1144-4341-9642-9060ba1f906d">
+
+![Screenshot 2024-09-13 at 9 13 29 AM](https://github.com/user-attachments/assets/89dfa027-14b8-4689-a124-efeeffb23438)![Uploading Screenshot 2024-09-10 at 10.54.43 PM.png…]()<img width="791" alt="Screenshot 2024-09-11 at 9 46 30 AM" src="https://github.com/user-attachments/assets/fd5e5054-320b-4797-a158-a3cb33758727">
+
+
